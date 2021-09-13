@@ -1,0 +1,85 @@
+[
+
+    {
+        "SLNo": 1,
+        "Name": "Milk",
+        "Quantity": 1,
+        "Unit": "Ltr",
+        "Department": "drinks",
+        "Notes": "milma"
+    },
+    {
+        "SLNo": 2,
+        "Name": "Cookies",
+        "Quantity": 2,
+        "Unit": "packet",
+        "Department": "Bakery",
+        "Notes": "Choclate"
+    },
+    {
+        "SLNo": 3,
+        "Name": "Chicken",
+        "Quantity": 3,
+        "Unit": "kg",
+        "Department": "Non veg",
+        "Notes": "fresh"
+    },
+    
+    {
+        "SLNo": 4,
+        "Name": "Potato",
+        "Quantity": 2,
+        "Unit": "kg",
+        "Department": "Vegetables",
+        "Notes": "sweet"
+    },
+    {
+        "SLNo": 5,
+        "Name": "Tomatoes",
+        "Quantity": 1,
+        "Unit": "kg",
+        "Department": "Vegetables",
+        "Notes": "None"
+    },
+    {
+        "SLNo": 6,
+        "Name": "Tuna",
+        "Quantity": 2,
+        "Unit": "kg",
+        "Department": "Non veg",
+        "Notes": "None"
+    },
+    {
+        "SLNo": 7,
+        "Name": "Cabbage",
+        "Quantity": 3,
+        "Unit": "kg",
+        "Department": "Vegetables",
+        "Notes": "None"
+    },
+    {
+        "SLNo": 8,
+        "Name": "Chips",
+        "Quantity": 2,
+        "Unit": "packet",
+        "Department": "Bakery",
+        "Notes": "banana"
+    },
+    {
+        "SLNo": 9,
+        "Name": "Juice",
+        "Quantity": 1,
+        "Unit": "Ltr",
+        "Department": "Drink",
+        "Notes": "Mango"
+    },
+   
+    {
+        "SLNo": 10,
+        "Name": "Banana",
+        "Quantity": 1,
+        "Unit": "kg",
+        "Department": "Fruits",
+        "Notes": "None"
+    }
+]
